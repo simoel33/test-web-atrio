@@ -1,1 +1,10 @@
 /* You can add global styles to this file, and also import other style files */
+@import url('https://fonts.googleapis.com/css?family=Muli&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Quicksand&display=swap');
+body {
+  color: #fff;
+  font-family: 'ROBOTO';
+  background: var(--unnamed-color-242424) 0% 0% no-repeat padding-box;
+  background: #242424 0% 0% no-repeat padding-box;
+  opacity: 1;
+}
